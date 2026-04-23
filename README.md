@@ -1,8 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=MOHAMMAD+SAHIL&fontSize=55&color=0:0d0015,50:1a0033,100:0d0015&fontColor=c084fc&stroke=c084fc&strokeWidth=1.5&animation=fadeIn&fontAlignY=42&desc=AI+%26+ML+Engineer+%C2%B7+B.Tech+CSE+%C2%B7+Delhi%2C+India&descSize=15&descColor=a855f7&descAlignY=68" width="100%"/>
+<!-- HERO — using readme-typing as main banner (100% works on GitHub) -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=55&duration=3000&pause=99999&color=C084FC&center=true&vCenter=true&width=800&height=120&lines=MOHAMMAD+SAHIL" alt="MOHAMMAD SAHIL"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=14&duration=2800&pause=800&color=C084FC&center=true&vCenter=true&width=720&lines=Computer+Vision+%C2%B7+Deep+Learning+%C2%B7+NLP;Python+%C2%B7+TensorFlow+%C2%B7+OpenCV+%C2%B7+React;Building+Intelligent+Systems+From+Scratch" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=15&duration=2800&pause=800&color=A855F7&center=true&vCenter=true&width=720&height=40&lines=AI+%26+ML+Engineer+%C2%B7+B.Tech+CSE+%C2%B7+Delhi%2C+India" alt="subtitle"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=13&duration=2500&pause=700&color=C084FC&center=true&vCenter=true&width=720&height=35&lines=Computer+Vision+%C2%B7+Deep+Learning+%C2%B7+NLP;Python+%C2%B7+TensorFlow+%C2%B7+OpenCV+%C2%B7+React;Building+Intelligent+Systems+From+Scratch" alt="stack"/>
 
 <br/>
 
@@ -50,19 +53,19 @@
 ╔══════════════════════════════════════════════════════════════╗
 ║               ◈  MOHAMMAD SAHIL  ◈  DELHI, INDIA            ║
 ╠══════════════════════════════════════════════════════════════╣
-║  Python          ████████████████████░░   90%               ║
+║  Python           ████████████████████░   90%               ║
 ║  Machine Learning ████████████████░░░░░   83%               ║
-║  Deep Learning   ██████████████░░░░░░░░   76%               ║
-║  Problem Solving █████████████████████░   96%               ║
+║  Deep Learning    ██████████████░░░░░░░   76%               ║
+║  Problem Solving  █████████████████████   96%               ║
 ╠══════════════════════════════════════════════════════════════╣
-║       TensorFlow · OpenCV · React · Node · Git · Linux      ║
+║      TensorFlow · OpenCV · React · Node · Git · Linux       ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
+---
+
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0015,60:1a0033,100:0d0015&height=80&section=footer&text=SAHIL.EXE+%E2%80%94+ALL+SYSTEMS+GO&fontSize=13&fontColor=c084fc&animation=fadeIn" width="100%"/>
-
+<sub>◈ &nbsp; mohammadsahil74808 &nbsp; · &nbsp; Delhi, India &nbsp; · &nbsp; Building Tomorrow &nbsp; ◈</sub>
 </div>
