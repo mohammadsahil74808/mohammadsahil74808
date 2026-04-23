@@ -48,24 +48,5 @@
 <br/>
 
 <div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║               ◈  MOHAMMAD SAHIL  ◈  DELHI, INDIA            ║
-╠══════════════════════════════════════════════════════════════╣
-║  Python           ████████████████████░   90%               ║
-║  Machine Learning ████████████████░░░░░   83%               ║
-║  Deep Learning    ██████████████░░░░░░░   76%               ║
-║  Problem Solving  █████████████████████   96%               ║
-╠══════════════════════════════════════════════════════════════╣
-║      TensorFlow · OpenCV · React · Node · Git · Linux       ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-<div align="center">
 <sub>◈ &nbsp; mohammadsahil74808 &nbsp; · &nbsp; Delhi, India &nbsp; · &nbsp; Building Tomorrow &nbsp; ◈</sub>
 </div>
