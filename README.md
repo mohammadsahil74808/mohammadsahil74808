@@ -58,12 +58,12 @@
 
 ---
 
-<table width="100%">
+<table width="100%" cellspacing="0" cellpadding="0">
 <tr>
 
-<td width="44%" valign="top" align="left">
+<td width="40%" valign="top" align="left">
 
-## 🚀 Featured Projects <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30">
+## 🚀 Featured Projects
 
 - 🤖 JARVIS AI Assistant  
 - 🧭 Campus Navigator  
@@ -72,11 +72,11 @@
 
 </td>
 
-<td width="12%"></td>
+<td width="20%"></td>
 
-<td width="44%" valign="top" align="right">
+<td width="40%" valign="top" align="center">
 
-## 🌐 Connect <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="28">
+## 🌐 Connect
 
 <a href="https://www.linkedin.com/in/mohammadsahil74808">
 <img src="https://img.shields.io/badge/LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=000000"/>
