@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api &height=190&color=0:000000,45:111111,100:FFD700&text=MOHAMMAD%20SAHIL&fontSize=42&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20•%20Delhi,%20India&descAlignY=62&descSize=15"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:000000,45:111111,100:FFD700&text=MOHAMMAD%20SAHIL&fontSize=42&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20•%20Delhi,%20India&descAlignY=62&descSize=15"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=16&duration=2200&pause=800&color=FFD700&center=true&vCenter=true&width=900&lines=AI+%7C+ML+%7C+Python+%7C+Web+Development;Building+Real+Projects;Focused+on+Growth"/>
 
@@ -17,9 +17,9 @@
 <table width="100%">
 <tr>
 
-<td width="30%" valign="top">
+<td width="50%" valign="top">
 
-## ⚡ About Me
+## ⚡ About Me <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="28">
 
 - 🎓 B.Tech CSE (AI & ML)  
 - 📍 Delhi, India  
@@ -29,11 +29,9 @@
 
 </td>
 
-<td width="40%">&nbsp;</td>
+<td width="50%" valign="top">
 
-<td width="30%" valign="top">
-
-## ⚙️ Tech Stack
+## ⚙️ Tech Stack <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="28">
 
 <div align="center">
 
@@ -45,6 +43,7 @@
 
 </tr>
 </table>
+
 ---
 
 <div align="center">
