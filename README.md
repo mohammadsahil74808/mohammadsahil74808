@@ -17,7 +17,7 @@
 <table width="100%">
 <tr>
 
-<td width="28%" valign="top">
+<td width="30%" valign="top">
 
 ## ⚡ About Me
 
@@ -29,19 +29,15 @@
 
 </td>
 
-<td width="44%" valign="top">
+<td width="40%">&nbsp;</td>
 
-<br><br><br><br><br><br><br><br>
-
-</td>
-
-<td width="28%" valign="top">
+<td width="30%" valign="top">
 
 ## ⚙️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,react,html,css,nodejs,mysql,git,github,vscode,cpp,tensorflow&perline=3"/>
+<img src="https://skillicons.dev/icons?i=python,javascript,react,html,css,nodejs,mysql,git,github,vscode,cpp,tensorflow&perline=4"/>
 
 </div>
 
@@ -49,7 +45,6 @@
 
 </tr>
 </table>
-
 ---
 
 <div align="center">
