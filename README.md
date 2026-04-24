@@ -16,8 +16,7 @@
 
 <table width="100%">
 <tr>
-
-<td width="50%" valign="top">
+<td width="48%" valign="top">
 
 ## ⚡ About Me
 
@@ -29,14 +28,19 @@
 
 </td>
 
-<td width="50%" valign="top">
+<td width="4%"></td>
+
+<td width="48%" valign="top">
 
 ## ⚙️ Tech Stack
 
-<img width="100%" src="https://skillicons.dev/icons?i=python,javascript,react,html,css,nodejs,mysql,git,github,vscode,cpp,tensorflow&perline=4"/>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,javascript,react,html,css,nodejs,mysql,git,github,vscode,cpp,tensorflow&perline=4"/>
+
+</div>
 
 </td>
-
 </tr>
 </table>
 
@@ -44,25 +48,27 @@
 
 <table width="100%">
 <tr>
-
-<td width="33%">
+<td width="32%">
 
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=mohammadsahil74808&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=FFD700&text_color=ffffff&icon_color=FFD700"/>
 
 </td>
 
-<td width="33%">
+<td width="2%"></td>
+
+<td width="32%">
 
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadsahil74808&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=FFD700&text_color=ffffff"/>
 
 </td>
 
-<td width="33%">
+<td width="2%"></td>
+
+<td width="32%">
 
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadsahil74808&hide_border=true&background=0d0d0d&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideNums=ffffff&currStreakNum=FFD700"/>
 
 </td>
-
 </tr>
 </table>
 
@@ -70,8 +76,7 @@
 
 <table width="100%">
 <tr>
-
-<td width="50%" valign="top">
+<td width="48%" valign="top">
 
 ## 🚀 Featured Projects
 
@@ -82,9 +87,13 @@
 
 </td>
 
-<td width="50%" valign="top">
+<td width="4%"></td>
+
+<td width="48%" valign="top">
 
 ## 🌐 Connect
+
+<div align="left">
 
 <a href="https://www.linkedin.com/in/mohammadsahil74808">
 <img src="https://img.shields.io/badge/LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=000000"/>
@@ -102,8 +111,9 @@
 <img src="https://img.shields.io/badge/Gmail-FFD700?style=for-the-badge&logo=gmail&logoColor=000000"/>
 </a>
 
-</td>
+</div>
 
+</td>
 </tr>
 </table>
 
