@@ -22,37 +22,93 @@ Location: Delhi, India
 Education: B.Tech CSE (AI & ML)
 Focus: AI Solutions + Full Stack Projects
 Goal: Become Elite AI Engineer
-⚙️ Tech Stack
-<div align="center"> <img src="https://skillicons.dev/icons?i=python,javascript,react,html,css,nodejs,mysql,git,github,vscode,cpp,tensorflow&perline=6" /> </div>
-📊 GitHub Dashboard
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=mohammadsahil74808&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=FFD700&text_color=ffffff&icon_color=FFD700"/> <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadsahil74808&hide_border=true&background=0d0d0d&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideNums=ffffff&currStreakNum=FFD700"/> </div> <div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadsahil74808&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=FFD700&text_color=ffffff"/> </div>
-🚀 Featured Projects
+## ⚙️ Tech Stack
+
 <div align="center">
-Project	Description
-🤖 JARVIS AI Assistant	Smart AI desktop assistant
-🧭 Campus Navigator	College smart navigation system
-🌿 AYUVANA	Premium Ayurvedic ecommerce website
-⚙️ Automation Tools	Python productivity systems
+<img src="https://skillicons.dev/icons?i=python,javascript,react,html,css,nodejs,mysql,git,github,vscode,cpp,tensorflow&perline=6" />
 </div>
-📈 Contribution Graph
-<div align="center"> <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadsahil74808&bg_color=0d0d0d&color=FFD700&line=FFD700&point=ffffff&area=true&hide_border=true"/> </div>
-🧠 Currently Learning
+
+---
+
+## 📊 GitHub Dashboard
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohammadsahil74808&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=FFD700&text_color=ffffff&icon_color=FFD700"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadsahil74808&hide_border=true&background=0d0d0d&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideNums=ffffff&currStreakNum=FFD700"/>
+
+</div>
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadsahil74808&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=FFD700&text_color=ffffff"/>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description |
+|--------|------------|
+| 🤖 JARVIS AI Assistant | Smart AI desktop assistant |
+| 🧭 Campus Navigator | College smart navigation system |
+| 🌿 AYUVANA | Premium Ayurvedic ecommerce website |
+| ⚙️ Automation Tools | Python productivity systems |
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadsahil74808&bg_color=0d0d0d&color=FFD700&line=FFD700&point=ffffff&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+## 🧠 Currently Learning
+
 <div align="center">
 
 Machine Learning • Deep Learning • APIs • Backend • Real World Deployment
 
 </div>
-🌐 Connect With Me
+
+---
+
+## 🌐 Connect With Me
+
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/mohammadsahil74808)
 
+[![Instagram](https://img.shields.io/badge/Instagram-FFD700?style=for-the-badge&logo=instagram&logoColor=000000)](https://www.instagram.com/dsahil.sheikh10)
 
-
-
+[![Gmail](https://img.shields.io/badge/Gmail-FFD700?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:mohammadsahil74808@gmail.com)
 
 </div>
-🐍 Contribution Snake
-<div align="center"> <img src="https://raw.githubusercontent.com/mohammadsahil74808/mohammadsahil74808/output/snake.svg"/> </div>
+
+---
+
+## 🐍 Contribution Snake
+
 <div align="center">
-BUILDING TOMORROW WITH CODE
-</div> ```
+
+<img src="https://raw.githubusercontent.com/mohammadsahil74808/mohammadsahil74808/output/snake.svg"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### BUILDING TOMORROW WITH CODE
+
+</div>
