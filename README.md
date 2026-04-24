@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- GLOWING GRADIENT HERO -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=52&duration=99999&pause=9999&color=FFD700&background=00000000&center=true&vCenter=true&width=820&height=110&lines=MOHAMMAD+SAHIL" alt="MOHAMMAD SAHIL"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=52&duration=999&pause=999&color=FFD700&background=00000000&center=true&vCenter=true&width=820&height=110&lines=MOHAMMAD+SAHIL" alt="MOHAMMAD SAHIL"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=400&size=15&duration=99999&pause=99999&color=FFA500&center=true&vCenter=true&width=720&height=35&lines=AI+%26+ML+Engineer+%C2%B7+B.Tech+CSE+%C2%B7+Delhi%2C+India" alt="subtitle"/>
 
