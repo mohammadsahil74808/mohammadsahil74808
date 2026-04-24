@@ -58,46 +58,15 @@
 
 ---
 
-<table width="100%" cellspacing="0" cellpadding="0">
-<tr>
+## 🚀 Featured Projects　　　　　　　　　　　　　　　## 🌐 Connect
 
-<td width="40%" valign="top" align="left">
+🤖 JARVIS AI Assistant　　　　　　　　　　　　　[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/mohammadsahil74808)
 
-## 🚀 Featured Projects
+🧭 Campus Navigator　　　　　　　　　　　　 [![Instagram](https://img.shields.io/badge/Instagram-FFD700?style=for-the-badge&logo=instagram&logoColor=000000)](https://www.instagram.com/dsahil.sheikh10)
 
-- 🤖 JARVIS AI Assistant  
-- 🧭 Campus Navigator  
-- 🌿 AYUVANA Website  
-- ⚙️ Automation Tools  
+🌿 AYUVANA Website　　　　　　　　　　　　　 [![Gmail](https://img.shields.io/badge/Gmail-FFD700?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:mohammadsahil74808@gmail.com)
 
-</td>
-
-<td width="20%"></td>
-
-<td width="40%" valign="top" align="center">
-
-## 🌐 Connect
-
-<a href="https://www.linkedin.com/in/mohammadsahil74808">
-<img src="https://img.shields.io/badge/LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=000000"/>
-</a>
-
-<br><br>
-
-<a href="https://www.instagram.com/dsahil.sheikh10">
-<img src="https://img.shields.io/badge/Instagram-FFD700?style=for-the-badge&logo=instagram&logoColor=000000"/>
-</a>
-
-<br><br>
-
-<a href="mailto:mohammadsahil74808@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-FFD700?style=for-the-badge&logo=gmail&logoColor=000000"/>
-</a>
-
-</td>
-
-</tr>
-</table>
+⚙️ Automation Tools
 ---
 
 ## 📈 Activity Graph <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="28">
