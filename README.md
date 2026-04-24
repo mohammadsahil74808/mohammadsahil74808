@@ -17,9 +17,9 @@
 <table width="100%">
 <tr>
 
-<td width="50%" valign="top">
+<td width="32%" valign="top">
 
-## ⚡ About Me <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="28">
+## ⚡ About Me
 
 - 🎓 B.Tech CSE (AI & ML)  
 - 📍 Delhi, India  
@@ -29,9 +29,19 @@
 
 </td>
 
-<td width="50%" valign="top">
+<td width="36%">
 
-## ⚙️ Tech Stack <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="28">
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+
+</td>
+
+<td width="32%" valign="top">
+
+## ⚙️ Tech Stack
 
 <div align="center">
 
