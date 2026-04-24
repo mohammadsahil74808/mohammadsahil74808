@@ -14,56 +14,106 @@
 
 ---
 
-## ⚡ Profile Snapshot
+<table>
+<tr>
 
-| About | Skills | Current Goal |
-|------|------|------|
-| B.Tech CSE (AI & ML) | Full Stack + AI | Become Elite Engineer |
+<td width="50%" valign="top">
 
-| Learning | Location | Focus |
-|---------|----------|------|
-| ML • DL • APIs | Delhi, India | Real Projects |
+## ⚡ About Me
 
----
+- 🎓 B.Tech CSE (AI & ML)  
+- 📍 Delhi, India  
+- 🚀 Full Stack + AI Projects  
+- 🎯 Future AI Engineer  
+- 📚 Learning ML / APIs / Backend  
 
-## ⚙️ Tech + Stats + Languages
+</td>
+
+<td width="50%" valign="top">
+
+## ⚙️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,react,html,css,nodejs,mysql,git,github,vscode,cpp,tensorflow&perline=12"/>
+<img src="https://skillicons.dev/icons?i=python,javascript,react,html,css,nodejs,mysql,git,github,vscode,cpp,tensorflow&perline=4"/>
+
+</div>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mohammadsahil74808&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=FFD700&text_color=ffffff&icon_color=FFD700"/>
+
+</td>
+
+<td width="33%" valign="top">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadsahil74808&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=FFD700&text_color=ffffff"/>
+
+</td>
+
+<td width="33%" valign="top">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadsahil74808&hide_border=true&background=0d0d0d&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideNums=ffffff&currStreakNum=FFD700"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🚀 Featured Projects
+
+- 🤖 JARVIS AI Assistant  
+- 🧭 Campus Navigator  
+- 🌿 AYUVANA Website  
+- ⚙️ Automation Tools  
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🌐 Connect
+
+<a href="https://www.linkedin.com/in/mohammadsahil74808">
+<img src="https://img.shields.io/badge/LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=000000"/>
+</a>
 
 <br><br>
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=mohammadsahil74808&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=FFD700&text_color=ffffff&icon_color=FFD700"/>
+<a href="https://www.instagram.com/dsahil.sheikh10">
+<img src="https://img.shields.io/badge/Instagram-FFD700?style=for-the-badge&logo=instagram&logoColor=000000"/>
+</a>
 
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadsahil74808&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=FFD700&text_color=ffffff"/>
+<br><br>
 
-<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadsahil74808&hide_border=true&background=0d0d0d&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideNums=ffffff&currStreakNum=FFD700"/>
+<a href="mailto:mohammadsahil74808@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-FFD700?style=for-the-badge&logo=gmail&logoColor=000000"/>
+</a>
 
-</div>
+</td>
 
----
-
-## 🚀 Projects + Connect
-
-| Project | Description |
-|--------|-------------|
-| 🤖 JARVIS AI Assistant | Smart desktop AI assistant |
-| 🧭 Campus Navigator | Smart college system |
-| 🌿 AYUVANA | Premium ecommerce website |
-| ⚙️ Automation Tools | Python tools |
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/mohammadsahil74808"><img src="https://img.shields.io/badge/LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=000000"/></a>
-<a href="https://www.instagram.com/dsahil.sheikh10"><img src="https://img.shields.io/badge/Instagram-FFD700?style=for-the-badge&logo=instagram&logoColor=000000"/></a>
-<a href="mailto:mohammadsahil74808@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFD700?style=for-the-badge&logo=gmail&logoColor=000000"/></a>
-
-</div>
+</tr>
+</table>
 
 ---
 
-## 📈 Activity
+## 📈 Activity Graph
 
 <div align="center">
 
