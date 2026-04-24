@@ -61,10 +61,7 @@
 <table width="100%">
 <tr>
 
-<table width="100%">
-<tr>
-
-<td width="47%" valign="top">
+<td width="44%" valign="top" align="left">
 
 ## 🚀 Featured Projects <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30">
 
@@ -75,9 +72,9 @@
 
 </td>
 
-<td width="6%"></td>
+<td width="12%"></td>
 
-<td width="47%" valign="top">
+<td width="44%" valign="top" align="right">
 
 ## 🌐 Connect <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="28">
 
@@ -101,7 +98,6 @@
 
 </tr>
 </table>
-
 ---
 
 ## 📈 Activity Graph <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="28">
