@@ -52,8 +52,6 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
 <div align="center">
 <sub>◈ &nbsp; mohammadsahil74808 &nbsp; · &nbsp; Delhi, India &nbsp; · &nbsp; Building Tomorrow &nbsp; ◈</sub>
 </div>
