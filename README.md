@@ -24,7 +24,7 @@
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-1a0f00?style=for-the-badge&logo=gmail&logoColor=FFD700)](mailto:mohammadsahil74808@gmail.com)
 &nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-1a0f00?style=for-the-badge&logo=instagram&logoColor=FFD700)](https://www.instagram.com/mohammadsahil74808)
+[![Instagram](https://img.shields.io/badge/Instagram-1a0f00?style=for-the-badge&logo=instagram&logoColor=FFD700)](https://www.instagram.com/dsahil.sheikh10)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-1a0f00?style=for-the-badge&logo=github&logoColor=FFD700)](https://github.com/mohammadsahil74808)
 
