@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:000000,50:111111,100:FFD700&text=MOHAMMAD%20SAHIL&fontSize=40&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20•%20Delhi,%20India&descAlignY=62&descSize=14"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:000000,45:111111,100:FFD700&text=MOHAMMAD%20SAHIL&fontSize=42&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20•%20Delhi,%20India&descAlignY=62&descSize=15"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=16&duration=2200&pause=800&color=FFD700&center=true&vCenter=true&width=900&lines=AI+%7C+ML+%7C+Python+%7C+Web+Development;Building+Real+Projects;Focused+on+Growth"/>
 
-<br>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=mohammadsahil74808&style=for-the-badge&color=FFD700&labelColor=111111"/>
 <img src="https://img.shields.io/badge/STATUS-ACTIVE-FFD700?style=for-the-badge&labelColor=111111"/>
@@ -16,9 +16,10 @@
 
 <table width="100%">
 <tr>
-<td width="48%" valign="top">
 
-## ⚡ About Me
+<td width="50%" valign="top">
+
+## ⚡ About Me <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="28">
 
 - 🎓 B.Tech CSE (AI & ML)  
 - 📍 Delhi, India  
@@ -28,11 +29,9 @@
 
 </td>
 
-<td width="4%"></td>
+<td width="50%" valign="top">
 
-<td width="48%" valign="top">
-
-## ⚙️ Tech Stack
+## ⚙️ Tech Stack <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="28">
 
 <div align="center">
 
@@ -41,44 +40,30 @@
 </div>
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-<table width="100%">
-<tr>
-<td width="32%">
+<div align="center">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=mohammadsahil74808&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=FFD700&text_color=ffffff&icon_color=FFD700"/>
+<img width="32%" src="https://github-readme-stats.vercel.app/api?username=mohammadsahil74808&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=FFD700&text_color=ffffff&icon_color=FFD700"/>
 
-</td>
+<img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadsahil74808&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=FFD700&text_color=ffffff"/>
 
-<td width="2%"></td>
+<img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadsahil74808&hide_border=true&background=0d0d0d&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideNums=ffffff&currStreakNum=FFD700"/>
 
-<td width="32%">
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadsahil74808&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=FFD700&text_color=ffffff"/>
-
-</td>
-
-<td width="2%"></td>
-
-<td width="32%">
-
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadsahil74808&hide_border=true&background=0d0d0d&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideNums=ffffff&currStreakNum=FFD700"/>
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
 <table width="100%">
 <tr>
-<td width="48%" valign="top">
 
-## 🚀 Featured Projects
+<td width="50%" valign="top">
+
+## 🚀 Featured Projects <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30">
 
 - 🤖 JARVIS AI Assistant  
 - 🧭 Campus Navigator  
@@ -87,13 +72,9 @@
 
 </td>
 
-<td width="4%"></td>
+<td width="50%" valign="top">
 
-<td width="48%" valign="top">
-
-## 🌐 Connect
-
-<div align="Right">
+## 🌐 Connect <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="28">
 
 <a href="https://www.linkedin.com/in/mohammadsahil74808">
 <img src="https://img.shields.io/badge/LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=000000"/>
@@ -111,15 +92,14 @@
 <img src="https://img.shields.io/badge/Gmail-FFD700?style=for-the-badge&logo=gmail&logoColor=000000"/>
 </a>
 
-</div>
-
 </td>
+
 </tr>
 </table>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Activity Graph <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="28">
 
 <div align="center">
 
@@ -131,6 +111,6 @@
 
 <div align="center">
 
-### BUILDING TOMORROW WITH CODE
+### BUILDING TOMORROW WITH CODE ✨
 
 </div>
