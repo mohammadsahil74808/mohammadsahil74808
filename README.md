@@ -5,7 +5,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=400&size=15&duration=99999&pause=99999&color=FFA500&center=true&vCenter=true&width=720&height=35&lines=AI+%26+ML+Engineer+%C2%B7+B.Tech+CSE+%C2%B7+Delhi%2C+India" alt="subtitle"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=13&duration=2500&pause=700&color=FFD700&center=true&vCenter=true&width=720&height=35&lines=Computer+Vision+%C2%B7+Deep+Learning+%C2%B7+NLP;Python+%C2%B7+TensorFlow+%C2%B7+OpenCV+%C2%B7+React;Building+Intelligent+Systems+From+Scratch" alt="stack"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=13&duration=2500&pause=99999&color=FFD700&center=true&vCenter=true&width=720&height=35&lines=Computer+Vision+%C2%B7+Deep+Learning+%C2%B7+NLP;Python+%C2%B7+TensorFlow+%C2%B7+OpenCV+%C2%B7+React;Building+Intelligent+Systems+From+Scratch" alt="stack"/>
 
 <br/>
 
