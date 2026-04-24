@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:000000,45:111111,100:FFD700&text=MOHAMMAD%20SAHIL&fontSize=42&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20•%20Delhi,%20India&descAlignY=62&descSize=15"/>
+<img width="100%" src="https://capsule-render.vercel.app/api &height=190&color=0:000000,45:111111,100:FFD700&text=MOHAMMAD%20SAHIL&fontSize=42&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20•%20Delhi,%20India&descAlignY=62&descSize=15"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=16&duration=2200&pause=800&color=FFD700&center=true&vCenter=true&width=900&lines=AI+%7C+ML+%7C+Python+%7C+Web+Development;Building+Real+Projects;Focused+on+Growth"/>
 
@@ -58,15 +58,6 @@
 
 ---
 
-## 🚀 Featured Projects　　　　　　　　　　　　　　　## 🌐 Connect
-
-🤖 JARVIS AI Assistant　　　　　　　　　　　　　[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/mohammadsahil74808)
-
-🧭 Campus Navigator　　　　　　　　　　　　 [![Instagram](https://img.shields.io/badge/Instagram-FFD700?style=for-the-badge&logo=instagram&logoColor=000000)](https://www.instagram.com/dsahil.sheikh10)
-
-🌿 AYUVANA Website　　　　　　　　　　　　　 [![Gmail](https://img.shields.io/badge/Gmail-FFD700?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:mohammadsahil74808@gmail.com)
-
-⚙️ Automation Tools
 ---
 
 ## 📈 Activity Graph <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="28">
