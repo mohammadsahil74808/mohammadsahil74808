@@ -61,7 +61,10 @@
 <table width="100%">
 <tr>
 
-<td width="50%" valign="top">
+<table width="100%">
+<tr>
+
+<td width="47%" valign="top">
 
 ## 🚀 Featured Projects <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30">
 
@@ -72,7 +75,9 @@
 
 </td>
 
-<td width="50%" valign="top">
+<td width="6%"></td>
+
+<td width="47%" valign="top">
 
 ## 🌐 Connect <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="28">
 
