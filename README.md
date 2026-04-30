@@ -3,11 +3,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=16&duration=2200&pause=800&color=FFD700&center=true&vCenter=true&width=900&lines=AI+%7C+ML+%7C+Python+%7C+Web+Development;Building+Real+Projects;Focused+on+Growth"/>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=mohammadsahil74808&style=for-the-badge&color=FFD700&labelColor=111111"/>
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-FFD700?style=for-the-badge&labelColor=111111"/>
-<img src="https://img.shields.io/badge/OPEN_TO-INTERNSHIPS-FFD700?style=for-the-badge&labelColor=111111"/>
+<br>
 
 </div>
 
