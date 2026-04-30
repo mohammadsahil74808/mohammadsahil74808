@@ -35,17 +35,7 @@
 </div>
 
 </td>
- <td width="50%" valign="top">
 
-## ⚡ About Me <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="28">
-
-- 🎓 B.Tech CSE (AI & ML)  
-- 📍 Delhi, India  
-- 🚀 Full Stack + AI Projects  
-- 🎯 Future AI Engineer  
-- 📚 ML / APIs / Backend  
-
-</td>
 </tr>
 </table>
 
