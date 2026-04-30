@@ -28,7 +28,7 @@
 
 ## ⚙️ Tech Stack <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="28">
 
-<div align="center">
+<div align="right">
 
 <img src="https://skillicons.dev/icons?i=python,javascript,react,html,css,nodejs,mysql,git,github,vscode,cpp,tensorflow&perline=4"/>
 
