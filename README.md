@@ -1,72 +1,68 @@
 <div align="center">
-
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=16&duration=2200&pause=800&color=FFD700&center=true&vCenter=true&width=900&lines=AI+%7C+ML+%7C+Python+%7C+Web+Development;Building+Real+Projects;Focused+on+Growth"/>
-
-<br>
-
+  <img src="https://raw.githubusercontent.com/mohammadsahil74808/mohammadsahil74808/stats-output/stats.svg" height="150" alt="stats graph"  />
 </div>
 
----
-
-<table width="100%">
-<tr>
-
-<td width="50%" valign="top">
-
-## ⚡ About Me <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="28">
-
-- 🎓 B.Tech CSE (AI & ML)  
-- 📍 Delhi, India  
-- 🚀 Full Stack + AI Projects  
-- 🎯 Future AI Engineer  
-- 📚 ML / APIs / Backend  
-
-</td>
-
-<td width="50%" valign="top">
-
-## ⚙️ Tech Stack <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="28">
-
-<div align="Right">
-
-<img src="https://skillicons.dev/icons?i=python,javascript,react,html,css,nodejs,mysql,git,github,vscode,cpp,tensorflow&perline=4"/>
-
-</div>
-
-</td>
-
-</tr>
-</table>
-
----
+###
 
 <div align="center">
-
-<img width="32%" src="https://github-readme-stats.vercel.app/api?username=mohammadsahil74808&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=FFD700&text_color=ffffff&icon_color=FFD700"/>
-
-<img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadsahil74808&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=FFD700&text_color=ffffff"/>
-
-<img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadsahil74808&hide_border=true&background=0d0d0d&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideNums=ffffff&currStreakNum=FFD700"/>
-
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/css/1572B6" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="netlify logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="40" alt="supabase logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
----
-
----
-
-## 📈 Activity Graph <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="28">
+###
 
 <div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadsahil74808&bg_color=0d0d0d&color=FFD700&line=FFD700&point=ffffff&area=true&hide_border=true"/>
-
+  <a href="https://www.instagram.com/sahil.sheikh10?igsh=cnp3anVhNXNzazdm" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="sahilansari74808@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/mohammad-sahil-540567385?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://wa.me/qr/PDGGUXYBRPYLI1" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
 </div>
 
----
+###
 
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohammadsahil74808/mohammadsahil74808/pacman-output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohammadsahil74808/mohammadsahil74808/pacman-output/galaga-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mohammadsahil74808/mohammadsahil74808/pacman-output/galaga-contribution-graph.svg">
+</picture>
 
-### BUILDING TOMORROW WITH CODE ✨
-
-</div>
+###
