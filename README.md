@@ -1,6 +1,6 @@
 <div align="left">
-  <img src="https://raw.githubusercontent.com/mohammadsahil74808/mohammadsahil74808/stats-output/stats.svg" height="150" alt="stats graph" /> <br>
-  <img src="https://raw.githubusercontent.com/mohammadsahil74808/mohammadsahil74808/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
+  <img src="https://raw.githubusercontent.com/mohammadsahil74808/mohammadsahil74808/stats-output/stats.svg" height="145" alt="stats graph" /> <br>
+  <img src="https://raw.githubusercontent.com/mohammadsahil74808/mohammadsahil74808/activity-graph-output/activity-graph.svg" height="245" alt="activity-graph graph"  />
 </div>
 
 ###
