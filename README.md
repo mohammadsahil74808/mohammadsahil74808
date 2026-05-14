@@ -1,5 +1,9 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/mohammadsahil74808/mohammadsahil74808/stats-output/stats.svg" height="150" alt="stats graph"  />
+  ![Top language](https://stats.pphat.top/languages?username=mohammadsahil74808)
+<br/>
+
+
   <img src="https://raw.githubusercontent.com/mohammadsahil74808/mohammadsahil74808/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
