@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <img src="https://raw.githubusercontent.com/mohammadsahil74808/mohammadsahil74808/stats-output/stats.svg" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/mohammadsahil74808/mohammadsahil74808/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
