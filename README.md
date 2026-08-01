@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/light.svg">
-  <img src="./assets/dark.svg" alt="Sahil's GitHub Profile Banner" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./.github/workflows/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./.github/workflows/light.svg">
+  <img src="./.github/workflows/dark.svg" alt="Sahil's GitHub Profile Banner" width="100%">
 </picture>
 <div align="center">
   <img src="https://raw.githubusercontent.com/mohammadsahil74808/mohammadsahil74808/stats-output/stats.svg" height="150" alt="stats graph"  />
