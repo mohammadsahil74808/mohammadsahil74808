@@ -1,5 +1,5 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./.github/workflows/dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./.github/workflows/dark.sv">
   <source media="(prefers-color-scheme: light)" srcset="./.github/workflows/light.svg">
   <img src="./.github/workflows/dark.svg" alt="Sahil's GitHub Profile Banner" width="100%">
 </picture>
