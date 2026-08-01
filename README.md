@@ -3,9 +3,6 @@
   <source media="(prefers-color-scheme: light)" srcset="./.github/workflows/light.svg">
   <img src="./.github/workflows/dark.svg" alt="Sahil's GitHub Profile Banner" width="100%">
 </picture>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mohammadsahil74808/mohammadsahil74808/stats-output/stats.svg" height="150" alt="stats graph"  />
-
 
   <img src="https://raw.githubusercontent.com/mohammadsahil74808/mohammadsahil74808/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
