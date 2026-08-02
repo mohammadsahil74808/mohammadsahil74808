@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./.github/workflows/dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./.github/workflows/light.svg">
   <source media="(prefers-color-scheme: light)" srcset="./.github/workflows/light.svg">
-  <img src="./.github/workflows/dark.svg" alt="Sahil's GitHub Profile Banner" width="100%">
+  <img src="./.github/workflows/light.svg" alt="Sahil's GitHub Profile Banner" width="100%">
 </picture>
 
   <img src="https://raw.githubusercontent.com/mohammadsahil74808/mohammadsahil74808/languages-output/languages.svg" height="150" alt="languages graph"  />
