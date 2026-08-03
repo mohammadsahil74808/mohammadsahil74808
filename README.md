@@ -4,9 +4,7 @@
   <img src="./.github/workflows/light.svg" alt="Sahil's GitHub Profile Banner" width="100%">
 </picture>
 
-  <img src="https://raw.githubusercontent.com/mohammadsahil74808/mohammadsahil74808/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
-
+  
 ###
 
 <div align="center">
